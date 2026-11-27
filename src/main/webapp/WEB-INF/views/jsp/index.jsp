@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			        <h2>Welcome to Ghofran's CI/CD project - Jenkins + Docker Swarm</h2>
+			        <h2>Bienvenue chez Mahdia Services</h2>
 			<h3>Contact @ +91 9980923216</h3>
 		</div>	
 	</div>
